@@ -16,4 +16,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/liquid_evert.mk
+    $(LOCAL_DIR)/havoc_evert.mk
